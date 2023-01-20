@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img alt="nlwcopa" title="#nlwcopa" src="https://github.com/kinmane/NLW_Setup/blob/master/assets/capa.jpg" width="700px" />
+    <img alt="nlwcopa" title="#nlwcopa" src="https://github.com/kinmane/NLW_Setup/assets/capa.jpg" width="700px" />
 </h1>
 
 <h1 align="center">
-    <img alt="nlwSetup" src="https://github.com/kinmane/NLW_Setup/blob/master/assets/projeto.png" width="700px" title="nlwcopa" />
+    <img alt="nlwSetup" src="https://github.com/kinmane/NLW_Setup/assets/projeto.png" width="700px" title="nlwcopa" />
 </h1>
 
 ## ✨ Tecnologias
